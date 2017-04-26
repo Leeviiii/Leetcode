@@ -11,4 +11,8 @@
 - [Divide Two Integers](./records/divide_two_integers.md)
 - [Median of Two Sorted Arrays*](./records/median_of_two_sorted_arrays.md)
 
+## 链表
+- [Linked List Cycle](./records/linked_list_cycle.md)
+- [Linked List CycleII](./records/linked_list_cycleii.md)
+
 
