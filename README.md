@@ -20,6 +20,10 @@
 - [Swap Nodes in Pairs](./records/swap_nodesin_pairs.md)
 - [Reverse Nodes in k-Group*](./records/reserse_nodes_in_kgroup.md)
 
+## 数组
+- [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
+- [Remove Element](./records/remove_element.md)
+
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
 
