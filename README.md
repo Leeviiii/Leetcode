@@ -4,8 +4,7 @@
 >just record my leetcode experience
 
 ## 分治法
-- [Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description)
+- [Sqrt(x)](./records/sqrt_x.md)
 - [Pow(x, n)](https://leetcode.com/problems/powx-n/#/description)
 
-[Sqrt](https://leetcode.com/problems/sqrtx/#/description)
 
