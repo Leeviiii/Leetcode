@@ -17,4 +17,8 @@
 - [Linked List Cycle](./records/linked_list_cycle.md)
 - [Linked List CycleII*](./records/linked_list_cycleii.md)
 
+## 娱乐逻辑题 
+- [Reverse Integer](./records/reverse_integer.md)
+
+
 
