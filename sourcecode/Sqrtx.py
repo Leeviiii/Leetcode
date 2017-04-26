@@ -20,7 +20,6 @@ class Solution(object):
         t1 = (m+1)*(m+1)
         if t1 > x:
           return m
-
 if __name__ == "__main__":
   s = Solution()
   r = s.mySqrt(9)
