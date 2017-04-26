@@ -5,7 +5,7 @@
 ## 分析：
 与sqrt思路一致，二分遍历查找就可以
 
-### 实现
+### [实现](../sourcecode/ValidPerfectSquare.py)
 
 ```
 class Solution(object):
