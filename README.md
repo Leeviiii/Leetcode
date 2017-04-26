@@ -35,7 +35,8 @@
 
 ## 字符串处理
 - [Longest Substring Without Repeating Characters](./records/longest_substring_without_repeating_characters.md) 
-- [ZigZag Conversion.md](./records/zigZag_conversion.md) 
+- [ZigZag Conversion](./records/zigZag_conversion.md) 
+- [String to Integer (atoi)](./records/atoi.md) 
 
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
