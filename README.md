@@ -7,3 +7,5 @@
 - [Sqrt(x)] (https://leetcode.com/problems/sqrtx/#/description)
 - [Pow(x, n)] (https://leetcode.com/problems/powx-n/#/description)
 
+[Sqrt] (https://leetcode.com/problems/sqrtx/#/description)
+
