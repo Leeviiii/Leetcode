@@ -31,3 +31,4 @@ class Solution(object):
     if b is None or (a is not None and a < b):
       return self.binaryseach(nums1[k / 2:], nums2, k - k / 2)
     return self.binaryseach(nums1, nums2[k / 2:], k - k / 2)
+```

@@ -24,6 +24,12 @@
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
 - [Remove Element](./records/remove_element.md)
 
+## 哈希表
+- [Two Sum](./records/two_sum.md)
+- [3Sum](./records/3sum.md)
+- [3Sum Closest](./records/3sum_closest.md)
+- [4Sum](./records/4sum.md)
+
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
 
