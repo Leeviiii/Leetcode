@@ -40,6 +40,7 @@
 
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
+- [Count and Say](./records/count_and_say.md)
 
 
 
