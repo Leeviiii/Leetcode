@@ -1,16 +1,15 @@
-## Sqrt(x) 
+## [Sqrt(x)](https://leetcode.com/problems/sqrtx/#/description)
 
 >Implement int sqrt(int x).
 >Compute and return the square root of x.
-
-[原题地址](https://leetcode.com/problems/sqrtx/#/description)
-
 
 ## 分析：
 主意上面的sqrt函数返回值是int，所以比正常的sqrt要简单的多。
 
 - 解法一：暴力遍历，1到x直接的所有可能值，时间复杂度O(n)
 - 解法二：对1到x之间的所有值显然是有序而且没有重复的，可以进行二分查找，时间复杂度O(lgn)
+
+>无论返回值是否为int，都可以使用二分法来解决，考虑好精度就可以。同理pow(x,n)的实现也可以使用二分法来解决
 
 ### 非递归实现
 ```
