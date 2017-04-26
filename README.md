@@ -19,6 +19,8 @@
 - [Remove Nth Node From End of List](./records/remove_nth_node_from_end_of_list.md)
 - [Swap Nodes in Pairs](./records/swap_nodesin_pairs.md)
 - [Reverse Nodes in k-Group*](./records/reserse_nodes_in_kgroup.md)
+- [Merge Two Sorted Lists](./records/merge_two_sorted_lists.md)
+- [Merge k Sorted Lists](./records/merge_k_sorted_lists.md)
 
 ## 数组
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
