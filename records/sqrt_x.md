@@ -11,7 +11,7 @@
 
 >无论返回值是否为int，都可以使用二分法来解决，考虑好精度就可以。同理pow(x,n)的实现也可以使用二分法来解决
 
-### [非递归实现](./sourcecode/Sqrtx.py)
+### [非递归实现](../sourcecode/Sqrtx.py)
 ```
 class Solution(object):
   def mySqrt(self, x):
@@ -37,7 +37,7 @@ class Solution(object):
       m = (begin + end)/2
       t = m*m 
 ```
-### [递归实现](./sourcecode/Sqrtx_r.py)
+### [递归实现](../sourcecode/Sqrtx_r.py)
 ```
 class Solution(object):
   def mySqrt(self, x):
