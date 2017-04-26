@@ -16,6 +16,9 @@
 ## 链表
 - [Linked List Cycle](./records/linked_list_cycle.md)
 - [Linked List CycleII*](./records/linked_list_cycleii.md)
+- [Remove Nth Node From End of List](./records/remove_nth_node_from_end_of_list.md)
+- [Swap Nodes in Pairs](./records/swap_nodesin_pairs.md)
+- [Reverse Nodes in k-Group*](./records/reserse_nodes_in_kgroup.md)
 
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
