@@ -6,5 +6,7 @@
 - [Sqrt(x)](./records/sqrt_x.md)
 - [Valid Perfect Square](./records/valid_perfect_square.md)
 - [Pow(x, n)](./records/pow_x_n.md)
+- [Search in Rotated Sorted Array](./records/search_in_rotated_sorted_array.md)
+- [Search in Rotated Sorted ArrayII](./records/search_in_rotated_sorted_arrayii.md)
 
 
