@@ -34,7 +34,7 @@
 - [4Sum](./records/4sum.md)
 
 ## 字符串处理
-- [Longest Palindromic Substring*](./records/LongestPalindromicSubstring.md) 
+- [Longest Palindromic Substring*](./records/longest_substring_without_repeating_characters.md) 
 - [Longest Substring Without Repeating Characters](./records/longest_substring_without_repeating_characters.md) 
 - [ZigZag Conversion](./records/zigZag_conversion.md) 
 - [String to Integer (atoi)](./records/atoi.md) 
