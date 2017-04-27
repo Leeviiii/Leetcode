@@ -1,21 +1,3 @@
-## [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/#/description)
-
->Given a string s, find the longest palindromic substring in s. You may assume that the maximum length of s is 1000.
-
-## 分析：
-
-- 解法一：暴力枚举，遍历每一个字符，考虑奇偶两种情况进行遍历，取出最大回文字串，时间复杂度O(n)
-- 解法二：动态规划，记住历史的搜索信息,用l[i,j]表示i到j之间的最长回文字串,递归公式如下
-
-          if i == j, l[i,j] = s[i]
-
-          elif s[i+1] == s[j-1] and s[i+1:j-1] == l[i+1,j-1] , l[i,j] = l[i+1,j-1] + s[i]
-
-          else l[i,j] = max(l[i+1,j-1],l[i+1,j],l[i,j+1])
-- 解法二：动态规划，记住历史的搜索信息,用l[i,j]表示i到j之间的最长回文字串,递归公式如下
-
-### [暴力枚举实现](../sourcecode/LongestPalindromicSubstringv1.py)
-```
 #coding=utf-8 
 class Solution(object):
     def longestPalindrome(self, s):
@@ -48,13 +30,12 @@ class Solution(object):
                 end = r[1]
                 if end - begin + 1 > len(max_l_p):
                     max_l_p = s[begin:end+1]
-
             if i != len(s) - 1 and s[i+1] == s[i]:
-               r = self.findlongest(s, i,i+1)
-               begin = r[0]
-               end = r[1]
-               if end - begin + 1 > len(max_l_p):
-                   max_l_p = s[begin:end+1]
+                r = self.findlongest(s, i,i+1)
+                begin = r[0]
+                end = r[1]
+                if end - begin + 1 > len(max_l_p):
+                    max_l_p = s[begin:end+1]
 
         return max_l_p
 
@@ -66,4 +47,13 @@ class Solution(object):
             else :
                 break;
         return [begin, end]
-```
+
+			
+
+
+
+if __name__ == "__main__":
+	s = Solution()
+	s1 = "babad"
+	t = s.longestPalindrome(s1)
+	print t
