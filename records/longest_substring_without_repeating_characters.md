@@ -117,7 +117,7 @@ class Solution(object):
 ### [解法三:Manacher算法](../sourcecode/LongestPalindromicSubstringv3.py)
 
 这个算法很巧妙，主要思想是利用回文的对称性。看一下效果，用这个算法在Leetcode上提交可以打败98%的用户。
-![Manacher算法提交结果](./imgs/longest_substring_without_repeating_characters.png "Manacher算法提交结果")
+![Manacher算法提交结果](../imgs/longest_substring_without_repeating_characters.png "Manacher算法提交结果")
 
 ```
 #coding=utf-8 
