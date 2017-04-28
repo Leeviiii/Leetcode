@@ -35,6 +35,7 @@
 
 ## 字符串处理
 - [Longest Palindromic Substring*](./records/longest_Palindromics_substring.md) 
+- [Palindrome Number](./records/Palindrome_Number.md) 
 - [Longest Substring Without Repeating Characters](./records/longest_substring_without_repeating_characters.md) 
 - [ZigZag Conversion](./records/zigZag_conversion.md) 
 - [String to Integer (atoi)](./records/atoi.md) 
