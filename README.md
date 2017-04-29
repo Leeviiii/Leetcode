@@ -41,6 +41,9 @@
 - [ZigZag Conversion](./records/zigZag_conversion.md) 
 - [String to Integer (atoi)](./records/atoi.md) 
 
+## 贪心法
+- [Container With Most Water](./records/ContainerWithMostWater.md)
+
 ## 娱乐逻辑题 
 - [Reverse Integer](./records/reverse_integer.md)
 - [Count and Say](./records/count_and_say.md)
