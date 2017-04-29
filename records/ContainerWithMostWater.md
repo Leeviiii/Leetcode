@@ -7,7 +7,7 @@
 - 解法一：直接暴力循环，两重循环遍历所有的可能，取最大值，时间复杂度O(n*n)。[代码实现](../sourcecode/ContainerWithMostWater.py)
 - 解法一：思考一下暴力循环的时候有没有不需要的计算?蓄水的多少取决于短板，所以如果一个大范围的蓄水值被算出来，那么以短板为一边边界的小范围值就不用计算了，肯定不是最优解，这就是贪心的思想。如果我们算出来i-->j的蓄水值，并且ai<aj,那么i-->i+1,i-->i+2......i-->j-1都不需要计算了，一定比i-->j的蓄水值要小。这种方法两边遍历，一次就可以得出结果，时间复杂度O(n)
 
-### [实现](../sourcecode/3sum.py)
+### [实现](../sourcecode/ContainerWithMostWaterv2.py)
 ```
 class Solution(object):
     def maxArea(self, height):
