@@ -24,6 +24,9 @@
 - [Merge k Sorted Lists](./records/merge_k_sorted_lists.md)
 - [Add Two Numbers](./records/add_two_number.md)
 
+## 栈
+- [Valid Parentheses](./records/ValidParentheses.md)
+
 ## 数组
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
 - [Remove Element](./records/remove_element.md)
