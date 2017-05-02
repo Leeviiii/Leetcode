@@ -12,6 +12,7 @@
 - [Search in Rotated Sorted ArrayII](./records/search_in_rotated_sorted_arrayii.md)
 - [Divide Two Integers](./records/divide_two_integers.md)
 - [Median of Two Sorted Arrays*](./records/median_of_two_sorted_arrays.md)
+- [Letter Combinations of a Phone Number](./records/LetterCombinationsofaPhoneNumber.md)
 
 ## 链表
 - [Linked List Cycle](./records/linked_list_cycle.md)
