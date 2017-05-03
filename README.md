@@ -50,6 +50,7 @@
 - [ZigZag Conversion](./records/zigZag_conversion.md) 
 - [String to Integer (atoi)](./records/atoi.md) 
 - [Longest Common Prefix](./records/LongestCommonPrefix.md) 
+- [Implement strStr](./records/ImplementstrStr.md) 
 
 ## 贪心法
 - [Container With Most Water](./records/ContainerWithMostWater.md)
