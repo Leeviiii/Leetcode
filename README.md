@@ -52,6 +52,7 @@
 - [String to Integer (atoi)](./records/atoi.md) 
 - [Longest Common Prefix](./records/LongestCommonPrefix.md) 
 - [Implement strStr](./records/ImplementstrStr.md) 
+- [Substring with Concatenation of All Words*](./records/SubstringwithConcatenationofAllWords.md) 
 
 ## 贪心法
 - [Container With Most Water](./records/ContainerWithMostWater.md)
