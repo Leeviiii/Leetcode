@@ -23,6 +23,7 @@
 - [Merge Two Sorted Lists](./records/merge_two_sorted_lists.md)
 - [Merge k Sorted Lists](./records/merge_k_sorted_lists.md)
 - [Add Two Numbers](./records/add_two_number.md)
+- [Next Permutation](./records/NextPermutation.md)
 
 ## 栈
 - [Valid Parentheses](./records/ValidParentheses.md)
