@@ -33,6 +33,7 @@
 ## 树
 - [Generate Parentheses](./records/GenerateParentheses.md)
 - [Same Tree](./records/SameTree.md)
+- [Validate Binary Search Tree](./records/ValidateBinarySearchTree.md)
 
 ## 数组
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
