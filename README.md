@@ -30,6 +30,9 @@
 ## 栈
 - [Valid Parentheses](./records/ValidParentheses.md)
 
+## 动态规划
+- [Longest Valid Parentheses](./records/LongestValidParentheses.md)
+
 ## 树
 - [Generate Parentheses](./records/GenerateParentheses.md)
 - [Same Tree](./records/SameTree.md)
