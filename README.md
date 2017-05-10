@@ -41,6 +41,7 @@
 ## 数组
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
 - [Remove Element](./records/remove_element.md)
+- [Valid Sudoku](./records/ValidSudoku.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
