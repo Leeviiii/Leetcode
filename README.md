@@ -44,6 +44,7 @@
 - [Valid Sudoku](./records/ValidSudoku.md)
 - [Sudoku Solver](./records/SudokuSolver.md)
 - [First Missing Positive](./records/FirstMissingPositive.md)
+- [Combination Sum](./records/CombinationSum.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
