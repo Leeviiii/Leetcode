@@ -42,6 +42,7 @@
 - [Remove Duplicates from Sorted Array](./records/remove_duplicates_from_sorted_array.md)
 - [Remove Element](./records/remove_element.md)
 - [Valid Sudoku](./records/ValidSudoku.md)
+- [Sudoku Solver](./records/SudokuSolver.md)
 - [First Missing Positive](./records/FirstMissingPositive.md)
 
 ## 哈希表
