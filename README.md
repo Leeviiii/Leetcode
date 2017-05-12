@@ -52,6 +52,7 @@
 - [3Sum](./records/3sum.md)
 - [3Sum Closest](./records/3sum_closest.md)
 - [4Sum](./records/4sum.md)
+- [GroupAnagrams](./records/GroupAnagrams.md)
 
 ## 字符串处理
 - [Longest Palindromic Substring*](./records/longest_Palindromics_substring.md) 
