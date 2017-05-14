@@ -34,6 +34,8 @@
 
 ## 动态规划
 - [Longest Valid Parentheses](./records/LongestValidParentheses.md)
+- [Jump Game](./records/JumpGame.md)
+- [Jump Game II](./records/JumpGameII.md)
 
 ## 树
 - [Generate Parentheses](./records/GenerateParentheses.md)
