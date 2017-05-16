@@ -52,6 +52,7 @@
 - [Combination Sum II](./records/CombinationSumII.md)
 - [Rotate Image](./records/RotateImage.md)
 - [Trapping Rain Water](./records/TrappingRainWater.md)
+- [Maximum Subarray](./records/MaximumSubarray.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
