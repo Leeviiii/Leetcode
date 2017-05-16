@@ -54,6 +54,7 @@
 - [Trapping Rain Water](./records/TrappingRainWater.md)
 - [Maximum Subarray](./records/MaximumSubarray.md)
 - [Spiral Matrix](./records/SpiralMatrix.md)
+- [Spiral Matrix II](./records/SpiralMatrixII.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
