@@ -56,6 +56,7 @@
 - [Spiral Matrix](./records/SpiralMatrix.md)
 - [Spiral Matrix II](./records/SpiralMatrixII.md)
 - [Merge Intervals](./records/MergeIntervals.md)
+- [Insert Interval](./records/InsertInterval.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
