@@ -79,6 +79,7 @@
 - [Substring with Concatenation of All Words*](./records/SubstringwithConcatenationofAllWords.md) 
 - [Multiply Strings](./records/MultiplyStrings.md) 
 - [Wildcard Matching*](./records/WildcardMatching.md) 
+- [Length of Last Word][./sourcecode/LengthofLastWord.py]
 
 ## 贪心法
 - [Container With Most Water](./records/ContainerWithMostWater.md)
