@@ -28,6 +28,7 @@
 - [Merge k Sorted Lists](./records/merge_k_sorted_lists.md)
 - [Add Two Numbers](./records/add_two_number.md)
 - [Next Permutation](./records/NextPermutation.md)
+- [Rotate List](./records/RotateList.py)
 
 ## 栈
 - [Valid Parentheses](./records/ValidParentheses.md)
