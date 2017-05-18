@@ -59,6 +59,7 @@
 - [Merge Intervals](./records/MergeIntervals.md)
 - [Insert Interval](./records/InsertInterval.md)
 - [Add Binary](./records/AddBinary.py)
+- [Plus One](./records/PlusOne.py)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
