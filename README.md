@@ -58,6 +58,7 @@
 - [Spiral Matrix II](./records/SpiralMatrixII.md)
 - [Merge Intervals](./records/MergeIntervals.md)
 - [Insert Interval](./records/InsertInterval.md)
+- [Add Binary](./records/AddBinary.py)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
