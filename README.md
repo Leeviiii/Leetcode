@@ -17,6 +17,7 @@
 - [Search for a Range](./records/SearchforaRange.md)
 - [Permutations](./records/Permutations.md)
 - [Permutations II](./records/PermutationsII.md)
+- [Permutation Sequence](./records/PermutationSequence.md)
 
 ## 链表
 - [Linked List Cycle](./records/linked_list_cycle.md)
