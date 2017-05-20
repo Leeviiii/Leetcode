@@ -30,6 +30,8 @@
 - [Add Two Numbers](./records/add_two_number.md)
 - [Next Permutation](./records/NextPermutation.md)
 - [Rotate List](./records/RotateList.py)
+- [Remove Duplicates from Sorted List](./records/RemoveDuplicatesfromSortedList.py)
+- [Remove Duplicates from Sorted List II](./records/RemoveDuplicatesfromSortedListII.md)
 
 ## 栈
 - [Valid Parentheses](./records/ValidParentheses.md)
