@@ -40,6 +40,7 @@
 - [Longest Valid Parentheses](./records/LongestValidParentheses.md)
 - [Jump Game](./records/JumpGame.md)
 - [Jump Game II](./records/JumpGameII.md)
+- [Unique Paths](./records/UniquePaths.md)
 
 ## 树
 - [Generate Parentheses](./records/GenerateParentheses.md)
