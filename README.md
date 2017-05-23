@@ -41,6 +41,7 @@
 - [Jump Game](./records/JumpGame.md)
 - [Jump Game II](./records/JumpGameII.md)
 - [Unique Paths](./records/UniquePaths.md)
+- [Unique Paths II](./records/UniquePathsII.md)
 
 ## 树
 - [Generate Parentheses](./records/GenerateParentheses.md)
@@ -87,6 +88,7 @@
 - [Multiply Strings](./records/MultiplyStrings.md) 
 - [Wildcard Matching*](./records/WildcardMatching.md) 
 - [Length of Last Word][./sourcecode/LengthofLastWord.py]
+- [Text Justification][./sourcecode/TextJustification.md]
 
 ## 贪心法
 - [Container With Most Water](./records/ContainerWithMostWater.md)
