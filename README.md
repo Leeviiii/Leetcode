@@ -65,6 +65,7 @@
 - [Insert Interval](./records/InsertInterval.md)
 - [Add Binary](./records/AddBinary.py)
 - [Plus One](./records/PlusOne.py)
+- [Largest Rectanglein Histogram](./records/LargestRectangleinHistogram.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
