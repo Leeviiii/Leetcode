@@ -66,6 +66,7 @@
 - [Add Binary](./records/AddBinary.py)
 - [Plus One](./records/PlusOne.py)
 - [Largest Rectanglein Histogram](./records/LargestRectangleinHistogram.md)
+- [Merge Sorted Array](./records/MergeSortedArray.md)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
