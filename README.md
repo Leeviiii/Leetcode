@@ -68,6 +68,7 @@
 - [Plus One](./records/PlusOne.py)
 - [Largest Rectanglein Histogram](./records/LargestRectangleinHistogram.md)
 - [Merge Sorted Array](./records/MergeSortedArray.md)
+- [Simplify Path](./sourcecode/SimplifyPath.py)
 
 ## 哈希表
 - [Two Sum](./records/two_sum.md)
